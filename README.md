@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=bokyeong's%20github&fontSize=90)
 
-<!-- <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div> -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kongeee)](https://solved.ac/kongeee)
+
+
+<div align="center">
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/reactnative-61DAFB?style=flat&logo=react&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+</div>
 
 <!--
 **ym1021/ym1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
