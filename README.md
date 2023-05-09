@@ -16,7 +16,10 @@
 	<br><br><br><br>
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongeee)](https://solved.ac/kongeee)
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongeee)](https://solved.ac/kongeee) -->
+<div align="center">
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kongeee)](https://solved.ac/kongeee)<br/><br/><br/>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 
