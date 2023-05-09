@@ -32,7 +32,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ym1021&show_icons=true">
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ym1021&layout=compact"> -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer) -->
 
 <!--
 **ym1021/ym1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
