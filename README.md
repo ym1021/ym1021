@@ -25,12 +25,13 @@
 	<br>
 	<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 	<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
-	<br><br><br><br>
+	<br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ym1021&layout=compact">
+	<br><br>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongeee)](https://solved.ac/kongeee)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ym1021&show_icons=true">
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ym1021&layout=compact"> -->
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer) -->
 
