@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=bokyeong's%20github&fontSize=90)
 
 <div align="center">
-	<h3>Teck Stack</h3>
+	<h3>Tech Stack</h3>
 	<p>✨Languages✨</p>
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
